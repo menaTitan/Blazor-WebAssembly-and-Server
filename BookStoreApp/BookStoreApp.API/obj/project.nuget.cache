@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VP+tZnJAuRM=",
+  "dgSpecHash": "+0J/l7O394M=",
   "success": true,
-  "projectFilePath": "C:\\project\\Blazor Project\\Blazor-WebAssembly-and-Server-\\BookStoreApp\\BookStoreApp.API\\BookStoreApp.API.csproj",
+  "projectFilePath": "C:\\Projects\\Blazor-WebAssembly-and-Server\\BookStoreApp\\BookStoreApp.API\\BookStoreApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Menas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Menas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
