@@ -576,3 +576,9 @@ C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\obj\Debu
 C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\obj\Debug\net8.0\BookStoreApp.API.pdb
 C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\obj\Debug\net8.0\BookStoreApp.API.genruntimeconfig.cache
 C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\obj\Debug\net8.0\ref\BookStoreApp.API.dll
+C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

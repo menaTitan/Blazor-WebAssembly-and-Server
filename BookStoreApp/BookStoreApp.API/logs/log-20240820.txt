@@ -1,0 +1,26 @@
+2024-08-20 09:38:48.674 -05:00 [INF] Now listening on: https://localhost:7139
+2024-08-20 09:38:48.712 -05:00 [INF] Now listening on: http://localhost:5035
+2024-08-20 09:38:48.764 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-20 09:38:48.765 -05:00 [INF] Hosting environment: Development
+2024-08-20 09:38:48.766 -05:00 [INF] Content root path: C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API
+2024-08-20 09:45:02.610 -05:00 [INF] login Attempt for admin@bookstore.com
+2024-08-20 09:45:10.224 -05:00 [INF] login Attempt for admin@bookstore.com
+2024-08-20 09:46:25.000 -05:00 [INF] Registration Attempt for msergeyous@gmail.com
+2024-08-20 09:52:27.628 -05:00 [INF] Now listening on: https://localhost:7139
+2024-08-20 09:52:27.661 -05:00 [INF] Now listening on: http://localhost:5035
+2024-08-20 09:52:27.726 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-20 09:52:27.729 -05:00 [INF] Hosting environment: Development
+2024-08-20 09:52:27.730 -05:00 [INF] Content root path: C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API
+2024-08-20 09:55:59.760 -05:00 [INF] Registration Attempt for msergeyous@gmail.com
+2024-08-20 09:56:28.027 -05:00 [INF] login Attempt for msergeyous@gmail.com
+2024-08-20 09:57:22.857 -05:00 [INF] login Attempt for msergeyous@gmail.com
+2024-08-20 09:58:16.721 -05:00 [INF] login Attempt for msergeyous@gmail.com
+2024-08-20 10:08:32.866 -05:00 [INF] Now listening on: https://localhost:7139
+2024-08-20 10:08:32.914 -05:00 [INF] Now listening on: http://localhost:5035
+2024-08-20 10:08:33.018 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-20 10:08:33.024 -05:00 [INF] Hosting environment: Development
+2024-08-20 10:08:33.026 -05:00 [INF] Content root path: C:\Projects\Blazor-WebAssembly-and-Server\BookStoreApp\BookStoreApp.API
+2024-08-20 10:09:21.021 -05:00 [INF] Login attempt for msergeyous@gmail.com
+2024-08-20 10:09:50.480 -05:00 [INF] Registration attempt for user@example.com
+2024-08-20 10:10:43.591 -05:00 [INF] Registration attempt for user@example.com
+2024-08-20 10:11:02.890 -05:00 [INF] Login attempt for user@example.com
